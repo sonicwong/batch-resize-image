@@ -1,4 +1,4 @@
-# Simple Inage resize - Android Notification Icon Generator
+# Simple Image resize - Android Notification Icon Generator
 
 # Install
 
