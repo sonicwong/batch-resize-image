@@ -5,7 +5,8 @@
 1) Overwrite icon.png with your one.
 2) Open your favorite Terminal and run these commands.
 
-```npm install
+```
+npm install
 node build.js
 ```
 
